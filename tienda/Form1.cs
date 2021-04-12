@@ -142,19 +142,7 @@ namespace tienda
             }            
         }
 
-        private void btnLimpiar_Click(object sender, EventArgs e)
-        {
-            txbNombre.Text = "";
-            txbDireccion.Text = "";
-            txbTelefono.Text = "";
-            txbCantidad.Text = "";
-            cmbOpcion.SelectedIndex = -1;
-            lblProductos.Text = "Productos: ";
-            this.SubTotal = 0;
-            this.DescuentoTotal = 0;
-            this.Total = 0;
-            this.Cantidad = 0;
-        }
+       
 
         private Boolean ValidarCampos()
         {            
