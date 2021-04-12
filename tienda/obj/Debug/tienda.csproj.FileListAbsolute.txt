@@ -1,0 +1,9 @@
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\obj\Debug\tienda.csprojResolveAssemblyReference.cache
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\obj\Debug\tienda.Form1.resources
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\obj\Debug\tienda.Properties.Resources.resources
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\obj\Debug\tienda.csproj.GenerateResource.Cache
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\ALBERTO\Documents\Visual Studio 2017\Projects\VidaliaNolasco\tienda\tienda\obj\Debug\tienda.pdb
